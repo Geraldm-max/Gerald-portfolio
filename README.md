@@ -41,8 +41,8 @@ This website is built using **HTML5** and **CSS3** only. It is designed to showc
 │
 ├── index.html
 ├── style.css
-├── gerald.jpg.jpg # Profile image (replace with your actual photo)
-├── CV-GERALD-MUNGUTI.pdf.docx # CV file for download
+├── gerald.jpg.jpg # Profile image
+├── CV-GERALD-MUNGUTI.pdf.docx
 └── README.md
 
 
